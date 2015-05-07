@@ -1,0 +1,7 @@
+Uses JSON to access Yelp's public API and scrape based on search query.
+Displays the result one at a time at random instead of a list.
+
+To-do List:
+allign linked lists
+
+working on android development
